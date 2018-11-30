@@ -1,0 +1,2 @@
+# HorizontalCatalogCollectionView
+HorizontalCatalogCollectionView
